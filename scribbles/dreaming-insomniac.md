@@ -3,6 +3,7 @@ title: 'Dreaming insomniac.'
 description: 'poem'
 pubDate: 'Apr 13 2023'
 ---
+<pre>
 Away the sun, hid deep beneath the seas. 
 The short hand slid, a bit past two.
 It lays there, the huge numb glob.
@@ -24,6 +25,7 @@ Where does it lie, the world bore this question.
 Though we know, it went on dreaming. 
 
 Forever, for its sanity. 
+</pre>
 
 *- Aadil Varsh*
 

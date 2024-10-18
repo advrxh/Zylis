@@ -3,6 +3,7 @@ title: 'The hands over my Camella fields.'
 description: 'poem'
 pubDate: 'Apr 23 2024'
 ---
+<pre>
 Lifeless cry of a bleeding soul,
 Endless beds of dancing ole. 
 Reds and blues and the sunset hues,
@@ -27,21 +28,6 @@ On the face of the pink fields,
 Through the haze of the sweet breeze. 
 Her hands heal the once lost and torn, 
 Bringing solace to the soul forlorn. 
+</pre>
 
 *- Aadil Varsh*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

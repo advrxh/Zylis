@@ -3,6 +3,7 @@ title: 'Greenfields'
 description: 'poem'
 pubDate: 'Apr 28 2023'
 ---
+<pre>
 On a mellow Monday,
 Cladding a stout yellow array.
 I walked into a cozy slate,
@@ -29,5 +30,6 @@ Posed the bold white leaves.
 Where does it stand? 
 Unscathed. 
 
+</pre>
 
 *- Aadil Varsh*

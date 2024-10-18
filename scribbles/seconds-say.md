@@ -3,6 +3,7 @@ title: 'Seconds say'
 description: 'poem'
 pubDate: 'Jun 14 2023'
 ---
+<pre>
 Click-clacks and snip snaps,
 Loud rolls and sharp snares. 
 Every beat, shelved the pain, 
@@ -16,6 +17,7 @@ Hues are paid with hues.
 Plight of the transient drops, said I, 
 
 To you. 
+</pre>
 
 *- Aadil Varsh*
 

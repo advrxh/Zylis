@@ -3,6 +3,7 @@ title: 'Breezy blue'
 description: 'poem'
 pubDate: 'Dec 26 2023'
 ---
+<pre>
 Amid the hills, where secrets lie,
 In breezy blue, under the sky.
 With rain's caress, a tender trance,
@@ -27,5 +28,6 @@ Echoes linger in time's embrace,
 A story carved, in time and space.
 In hearts and hills, it shall remain, 
 a breezy blue. 
+</pre>
 
 *- Aadil Varsh*

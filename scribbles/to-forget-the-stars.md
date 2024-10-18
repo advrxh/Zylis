@@ -3,6 +3,7 @@ title: 'To forget the stars'
 description: 'poem'
 pubDate: 'Jul 05 2023'
 ---
+<pre>
 Gazed back at the ghats, 
 with the sunken sun behind.
 Took only a tilt-up,
@@ -30,5 +31,6 @@ Underlined my fear,
 To forget. 
 
 To not to be forgotten. 
+</pre>
 
 *- Aadil Varsh*

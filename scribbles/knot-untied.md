@@ -3,6 +3,7 @@ title: 'Knot Untied'
 description: 'poem'
 pubDate: 'May 23 2024'
 ---
+<pre>
 In the deep blues,
 of my heart's cinemas.
 I see your merry laugh.
@@ -34,5 +35,6 @@ For a forever flying flight.
 While the creases remains,
 From a knot untied.
 
-*- Aadil Varsh*
+</pre>
 
+*- Aadil Varsh*

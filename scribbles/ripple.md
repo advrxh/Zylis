@@ -3,6 +3,7 @@ title: 'Ripple'
 description: 'poem'
 pubDate: 'Jul 14 2023'
 ---
+<pre>
 The skies heaved, sound and sound.
 The crows swirled, round and round. 
 Was it the rain? Or Was it the faint, or
@@ -35,5 +36,6 @@ a book of dreams,
 ever untold. 
 
 By him. 
+</pre>
 
 *- Aadil Varsh*

@@ -3,6 +3,7 @@ title: 'Behind the curtain of death.'
 description: 'poem'
 pubDate: 'Aug 24 2023'
 ---
+<pre>
 I look past the grey,
 before the night's cold blue.
 It's only been a minute since,
@@ -38,5 +39,6 @@ Weave this toile.
 To stride the way, 
 the only right way. 
 To be present today. 
+</pre>
 
 *- Aadil Varsh*

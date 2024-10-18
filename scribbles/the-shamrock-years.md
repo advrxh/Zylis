@@ -3,6 +3,7 @@ title: 'The shamrock years.'
 description: 'poem'
 pubDate: 'May 14 2022'
 ---
+<pre>
 Plucked from my comfort,
 Stuck close to my closest. 
 Was a wonder trip down land, 
@@ -24,5 +25,7 @@ A stupid thought.
 There I leave behind, a decade of shamrock. 
 Neither a graceful adieu, Nor a gentle kiss. 
 Struck by a feeling, Guilty, am I? 
+
+</pre>
 
 *- Aadil Varsh*

@@ -4,6 +4,7 @@ description: 'poem'
 pubDate: 'Mar 02 2024'
 ---
 
+<pre>
 A million verses,
 carving the fall.
 Yet every time it visits,
@@ -31,5 +32,7 @@ this starry night,
 won't ever shine;
 upon me, ever so,
 so bright.
+
+</pre>
 
 *- Aadil Varsh*
