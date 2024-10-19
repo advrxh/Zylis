@@ -3,38 +3,4 @@ title: 'Knot Untied'
 description: 'poem'
 pubDate: 'May 23 2024'
 ---
-<pre>
-In the deep blues,
-of my heart's cinemas.
-I see your merry laugh.
-Garlanding, your shrine.
-Your dear face, 
-my life's dear grace.
-
-Amidst the grey crowd,
-of the children of our dear God.
-I seek your sweet-smelling strands,
-Slipping from your white silver dress.
-
-I hold your warm cherry hands, and
-let my heart do a little dance.
-I ask your angels for a chance, and
-let my lips slip into a little trance.
-
-To leave the edge of comfort,
-Beneath your shrine of gold.
-To lock the ends of a promise,
-Behind your shrine of gold.
-
-I must rip the fabric of light,
-With the overwhelming might,
-of your emptiness in sight.
-
-And here I leave your light,
-For a forever flying flight.
-While the creases remains,
-From a knot untied.
-
-</pre>
-
-*- Aadil Varsh*
+In the deep blues,<br/>of my heart's cinemas.<br/>I see your merry laugh.<br/>Garlanding, your shrine.<br/>Your dear face, <br/>my life's dear grace.<br/><br/>Amidst the grey crowd,<br/>of the children of our dear God.<br/>I seek your sweet-smelling strands,<br/>Slipping from your white silver dress.<br/><br/>I hold your warm cherry hands, and<br/>let my heart do a little dance.<br/>I ask your angels for a chance, and<br/>let my lips slip into a little trance.<br/><br/>To leave the edge of comfort,<br/>Beneath your shrine of gold.<br/>To lock the ends of a promise,<br/>Behind your shrine of gold.<br/><br/>I must rip the fabric of light,<br/>With the overwhelming might,<br/>of your emptiness in sight.<br/><br/>And here I leave your light,<br/>For a forever flying flight.<br/>While the creases remains,<br/>From a knot untied.<br/><br/><br/>*- Aadil Varsh*

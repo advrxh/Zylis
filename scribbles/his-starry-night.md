@@ -3,36 +3,4 @@ title: 'His starry night'
 description: 'poem'
 pubDate: 'Mar 02 2024'
 ---
-
-<pre>
-A million verses,
-carving the fall.
-Yet every time it visits,
-it greets me well,
-like a fragile newborn.
-
-Never-ending shrouds,
-sewn from the weeping clouds.
-Seamless in glory,
-drenched in agony.
-
-The lengths so white,
-warm and so light.
-Heavens could hide, in its
-folds and its drapes.
-
-Drifting and dashing,
-the current so stark.
-Once, a Heather,
-loved her red frock.
-
-I wish,
-in another nightfall,
-this starry night,
-won't ever shine;
-upon me, ever so,
-so bright.
-
-</pre>
-
-*- Aadil Varsh*
+<br/>A million verses,<br/>carving the fall.<br/>Yet every time it visits,<br/>it greets me well,<br/>like a fragile newborn.<br/><br/>Never-ending shrouds,<br/>sewn from the weeping clouds.<br/>Seamless in glory,<br/>drenched in agony.<br/><br/>The lengths so white,<br/>warm and so light.<br/>Heavens could hide, in its<br/>folds and its drapes.<br/><br/>Drifting and dashing,<br/>the current so stark.<br/>Once, a Heather,<br/>loved her red frock.<br/><br/>I wish,<br/>in another nightfall,<br/>this starry night,<br/>won't ever shine;<br/>upon me, ever so,<br/>so bright.<br/><br/><br/>*- Aadil Varsh*

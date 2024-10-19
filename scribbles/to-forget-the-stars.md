@@ -3,34 +3,4 @@ title: 'To forget the stars'
 description: 'poem'
 pubDate: 'Jul 05 2023'
 ---
-<pre>
-Gazed back at the ghats, 
-with the sunken sun behind.
-Took only a tilt-up,
-To see what I left behind.
-
-There it stood-still, 
-Like a silver stud. 
-Alone and beyond-
-The reach of my mind.
-
-Browsed through the skies,
-Of the days and the nights.
-Have I forgotten? 
-The goodnight stars. 
-
-Six, seven, eight. 
-I lost count. 
-"They never end", said, 
-The arm that I held. 
-
-The frozen crystal, 
-Never was still. 
-It's gentle quiver, 
-Underlined my fear, 
-To forget. 
-
-To not to be forgotten. 
-</pre>
-
-*- Aadil Varsh*
+Gazed back at the ghats, <br/>with the sunken sun behind.<br/>Took only a tilt-up,<br/>To see what I left behind.<br/><br/>There it stood-still, <br/>Like a silver stud. <br/>Alone and beyond-<br/>The reach of my mind.<br/><br/>Browsed through the skies,<br/>Of the days and the nights.<br/>Have I forgotten? <br/>The goodnight stars. <br/><br/>Six, seven, eight. <br/>I lost count. <br/>"They never end", said, <br/>The arm that I held. <br/><br/>The frozen crystal, <br/>Never was still. <br/>It's gentle quiver, <br/>Underlined my fear, <br/>To forget. <br/><br/>To not to be forgotten. <br/><br/>*- Aadil Varsh*
