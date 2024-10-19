@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18
-      - run: node content.js
+      - run: node copy_markdown_content.js
       - uses: devops-infra/action-commit-push@master
         with:
           github_token: ${{ secrets.GH_TOKEN }}
